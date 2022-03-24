@@ -1,5 +1,5 @@
 {
-  "name": "amazona",
+  "name": "eric-amazona-update",
   "version": "1.0.0",
   "description": "# Lessons",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/basir/mern-amazona.git"
   },
-  "author": "",
+  "author": "Eric",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/basir/mern-amazona/issues"
