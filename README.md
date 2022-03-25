@@ -11,7 +11,7 @@ Watch it on Youtube:
 
 ## Demo Website
 
-- 👉 Heroku : [https://mern-amazona-app.herokuapp.com](https://mern-amazona-app.herokuapp.com)
+- 👉 Heroku : [https://amazona-update.herokuapp.com](https://amazona-update.herokuapp.com)
 
 ## You Will Learn
 
